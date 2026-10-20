@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ExArMo Touch
+Comment=ExArMo elbow rehabilitation (touchscreen)
+Exec=bash "@ROOT@/gui/run_touch.sh"
+Path=@ROOT@/gui
+Icon=applications-science
+Terminal=false
+Categories=Science;Education;
